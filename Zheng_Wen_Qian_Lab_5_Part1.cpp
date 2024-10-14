@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-    double duration, calories, weight; // calling variables with trailing two decimal places
+    double duration, weight; // calling variables with trailing two decimal places
     int prompt, exercise;
 
     cout << "Would you like to...\n[1] See calorie burning TABLE for weight and duration\n[2] See calorie burn for SPECIFIC exercise\n\n> ";
