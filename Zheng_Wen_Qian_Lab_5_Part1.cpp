@@ -56,3 +56,25 @@ int main()
     }
     return 0;
 }
+
+
+/*
+Would you like to...
+[1] See calorie burning TABLE for weight and duration
+[2] See calorie burn for SPECIFIC exercise
+
+> 2
+
+What is your exercise duration in minutes?:
+> 50
+What is your weight in kg?:
+> 67
+
+Which type of exercise do you wish to do?:
+[1] Walking slowly
+[2] Walking quickly
+[3] Jogging
+
+> 3
+515.90cal
+*/
