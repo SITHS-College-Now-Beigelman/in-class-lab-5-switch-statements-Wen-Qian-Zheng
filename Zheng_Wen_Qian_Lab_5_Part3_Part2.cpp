@@ -47,16 +47,15 @@ int main() {
 }
 
 /*
-
-Trial 1: Reached (2, 3) in 257197 steps.
-Trial 2: Reached (2, 3) in 519114 steps.
-Trial 3: Reached (2, 3) in 527425 steps.
-Trial 4: Reached (2, 3) in 527458 steps.
-Trial 5: Reached (2, 3) in 527575 steps.
-Trial 6: Reached (2, 3) in 789208 steps.
-Trial 7: Reached (2, 3) in 1051193 steps.
-Trial 8: Reached (2, 3) in 1051214 steps.
-Trial 9: Reached (2, 3) in 1313289 steps.
-Trial 10: Reached (2, 3) in 1575412 steps.
-Average trial count to get to (2,3): 813908
+Trial 1: Reached (2, 3) in 14897 steps.
+Trial 2: Reached (2, 3) in 24638 steps.
+Trial 3: Reached (2, 3) in 31763 steps.
+Trial 4: Reached (2, 3) in 31844 steps.
+Trial 5: Reached (2, 3) in 33037 steps.
+Trial 6: Reached (2, 3) in 911722 steps.
+Trial 7: Reached (2, 3) in 912075 steps.
+Trial 8: Reached (2, 3) in 917708 steps.
+Trial 9: Reached (2, 3) in 928299 steps.
+Trial 10: Reached (2, 3) in 959238 steps.
+Average trial count to get to (2,3): 476522
 */
