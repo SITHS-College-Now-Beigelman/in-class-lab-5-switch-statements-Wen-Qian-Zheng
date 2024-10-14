@@ -63,3 +63,33 @@ int main()
 
     return 0; 
 }
+
+
+/*
+Step 1: Moved East. Current position: (1, 0)
+Step 2: Moved South. Current position: (1, -1)
+Step 3: Moved East. Current position: (2, -1)
+Step 4: Moved North. Current position: (2, 0)
+Step 5: Moved East. Current position: (3, 0)
+Step 6: Moved East. Current position: (4, 0)
+Step 7: Moved North. Current position: (4, 1)
+Step 8: Moved East. Current position: (5, 1)
+Step 9: Moved East. Current position: (6, 1)
+Step 10: Moved West. Current position: (5, 1)
+Step 11: Moved East. Current position: (6, 1)
+Step 12: Moved East. Current position: (7, 1)
+Step 13: Moved South. Current position: (7, 0)
+Step 14: Moved South. Current position: (7, -1)
+Step 15: Moved South. Current position: (7, -2)
+Step 16: Moved North. Current position: (7, -1)
+Step 17: Moved North. Current position: (7, 0)
+Step 18: Moved West. Current position: (6, 0)
+Step 19: Moved East. Current position: (7, 0)
+Step 20: Moved East. Current position: (8, 0)
+Step 21: Moved East. Current position: (9, 0)
+Step 22: Moved North. Current position: (9, 1)
+Step 23: Moved South. Current position: (9, 0)
+Step 24: Moved East. Current position: (10, 0)
+Step 25: Moved North. Current position: (10, 1)
+Final position: 1 blocks North, 10 blocks East
+*/
